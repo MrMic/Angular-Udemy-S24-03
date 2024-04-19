@@ -1,5 +1,9 @@
 # StandaloneComponents
 
+##
+
+Udemy - Angular 17 - Section 24 - Standalone Components - 03
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.0-rc.2.
 
 ## Development server
